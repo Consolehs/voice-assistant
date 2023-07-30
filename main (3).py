@@ -353,6 +353,8 @@ def response(voice):
                 gün = "Pazartesi"
             elif gün == "Tuesday":
                 gün = "Salı"
+            elif gün == "Wednesday":
+                gün = "Çarşamba"
             elif gün == "Thursday":
                 gün = "Perşembe"
             elif gün == "Friday":
